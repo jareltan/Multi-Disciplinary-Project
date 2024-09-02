@@ -1,7 +1,7 @@
 # Multi-Disciplinary-Project
 
 ![Robot Simulation](robot.gif)
-![Results Simulation](resukts.gif)
+![Results Simulation](results.gif)
 
 ## Project Overview
 The Multi-Disciplinary Project is a hands-on course where students design, build, and program a functional robotic system. The project integrates hardware and software components, providing students with practical experience in robotics, software engineering, and system integration. The robot must complete specific tasks that test its capabilities in navigation, image recognition, and autonomous exploration.
